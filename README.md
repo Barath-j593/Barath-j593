@@ -136,17 +136,17 @@ const barath = {
 <div align="center">
 
 <a href="https://github.com/Barath-j593">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barath-j593&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barath-j593&amp;theme=tokyonight" width="100%"/>
 </a>
 
 <a href="https://github.com/Barath-j593">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Barath-j593&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Barath-j593&amp;theme=tokyonight" width="32%"/>
 </a>
 <a href="https://github.com/Barath-j593">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Barath-j593&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Barath-j593&amp;theme=tokyonight" width="32%"/>
 </a>
 <a href="https://github.com/Barath-j593">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Barath-j593&theme=tokyonight&utcOffset=5.5" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Barath-j593&amp;theme=tokyonight&amp;utcOffset=5.5" width="32%"/>
 </a>
 
 </div>
