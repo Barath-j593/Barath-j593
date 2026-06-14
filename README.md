@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Barath+J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full+Stack+Developer+%7C+Building+Scalable+%26+Intelligent+Web+Experiences&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Barath+J&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Full+Stack+Developer+%7C+Building+Scalable+%26+Intelligent+Web+Experiences&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 
 <div align="center">
 
@@ -101,10 +101,10 @@ const barath = {
 <div align="center">
 
 <a href="https://github.com/Barath-j593">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barath-j593&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barath-j593&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
 </a>
 <a href="https://github.com/Barath-j593">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barath-j593&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barath-j593&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
 </a>
 
 </div>
@@ -131,11 +131,23 @@ const barath = {
 
 ---
 
-## 🏆 Trophy Wall
+## 📊 Profile Summary
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Barath-j593&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/Barath-j593">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barath-j593&theme=tokyonight" width="100%"/>
+</a>
+
+<a href="https://github.com/Barath-j593">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Barath-j593&theme=tokyonight" width="32%"/>
+</a>
+<a href="https://github.com/Barath-j593">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Barath-j593&theme=tokyonight" width="32%"/>
+</a>
+<a href="https://github.com/Barath-j593">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Barath-j593&theme=tokyonight&utcOffset=5.5" width="32%"/>
+</a>
 
 </div>
 
@@ -247,4 +259,4 @@ const barath = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
